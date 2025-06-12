@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const filePath = path.join(__dirname, '../popkid/onlyAdmin.json');
+const filePath = path.join(__dirname, '../SHADOW-SMR-MD/onlyAdmin.json');
 
 // Load data from JSON file
 function loadOnlyAdminData() {
