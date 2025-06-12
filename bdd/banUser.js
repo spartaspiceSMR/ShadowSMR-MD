@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Path to the JSON file storing banned users
-const filePath = path.join(__dirname, '../SHADOW-MD/banUser.json');
+const filePath = path.join(__dirname, '../SHADOW-SMR-MD/banUser.json');
 
 // Load data from JSON file
 function loadBanUserData() {
