@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=POPKID+XTECH+TEAM+;KEEP+USING+POPKID+MD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=SHADOW+;KEEP+USING+SHADOW-SMR+MD" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 ### 🤍 Get Pair Code
 <p align="center">
-  <a href="https://§håÐðwsessgenerator.onrender.com">
+  <a href="https://shadowSMR-MDsessgenerator.onrender.com">
     <img src="https://img.shields.io/badge/LOG IN FOR SESSION ID-white?style=for-the-badge&logo=porsche&logoColor=black" width="240" height="38.45" />
   </a>
 </p>
