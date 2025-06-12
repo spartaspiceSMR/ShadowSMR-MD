@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Path to the JSON file storing sudo data
-const filePath = path.join(__dirname, '../popkid/sudo.json');
+const filePath = path.join(__dirname, '../SHADOW-SMR-MD/sudo.json');
 
 // Load data from the JSON file
 function loadSudoData() {
