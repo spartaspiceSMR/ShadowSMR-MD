@@ -82,4 +82,4 @@
 
 
 ## 💖 Contact Me
-[![Whatsapp contact](https://img.shields.io/badge/Contact-Dev%20Popkid-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+254111385747)
+[![Whatsapp contact](https://img.shields.io/badge/Contact-§HÄÐÖW-§MR-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+254742215053)
