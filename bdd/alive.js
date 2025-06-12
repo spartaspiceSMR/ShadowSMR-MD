@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const filePath = path.join(__dirname, '../popkid/alive.json');
+const filePath = path.join(__dirname, '../SHADOW-SMR/alive.json');
 
 // Load data from JSON file
 function loadAliveData() {
