@@ -25,21 +25,21 @@ zokou({ nomCom: "deploy", categorie: "General" }, async (dest, zk, commandeOptio
 ╭─「 *🚀 BOT DEPLOYMENT GUIDE* 」─╮
 │  Hello *${nomAuteurMessage}*, welcome!
 │  Here's how you can deploy your own version of 
-│  the *POPKID-MD WhatsApp Bot* 🧠⚙️
+│  the *SHADOW-SMR-MD WhatsApp Bot* 🧠⚙️
 ╰────────────────────────────╯
 
 ╭─「 *🔑 GET SESSION ID* 」─╮
 📌 Visit: https://popkid-md-sessions-generator-uk7z.onrender.com  
 ➡️ Tap on *Pair Code*
 
-🧭 Enter your number with country code (e.g., *254732297194*)
-📩 You’ll receive a login code from *POPKID*
+🧭 Enter your number with country code (e.g., *254742215053*)
+📩 You’ll receive a login code from *SHADOWSMR*
 🛠️ Paste the code in WhatsApp when prompted
 📬 After successful login, check your own DM — the *Session ID* will be there!
 🔐 Copy it — you'll use it to deploy your bot.
 
 ╭─「 *📦 DEPLOYING THE BOT* 」─╮
-1️⃣ Go to the *POPKID-GLX* repository on GitHub  
+1️⃣ Go to the *SHADOW-SMR* repository on GitHub  
    ⭐ Fork and give it a star — it's a must!
 
 2️⃣ Tap the *Heroku Deploy* button on the repo  
@@ -53,11 +53,11 @@ zokou({ nomCom: "deploy", categorie: "General" }, async (dest, zk, commandeOptio
 🚀 In a few moments, your bot will go live.
 
 ╭─「 *👑 GIVE CREDITS* 」─╮
-💬 Contact the Dev: https://wa.me/+254732297194  
+💬 Contact the Dev: https://wa.me/+254742215053
 🤝 Say thanks to *POPKID* — creator of this awesome base!
 
 ━━━━━━━━━━━━━━━━━━━━━
-     💠 *Regards — POPKID😇*
+     💠 *Regards — SAMARA-SMR😇*
 ━━━━━━━━━━━━━━━━━━━━━`;
 
   try {
@@ -67,7 +67,7 @@ zokou({ nomCom: "deploy", categorie: "General" }, async (dest, zk, commandeOptio
       await zk.sendMessage(dest, {
         video: { url: lien },
         caption: infoMsg,
-        footer: "🤖 Powered by *POPKID-XTECH* • Made with 💙",
+        footer: "🤖 Powered by *SHADOW-SMR* • Made with 💙",
         gifPlayback: true
       }, { quoted: ms });
 
@@ -75,7 +75,7 @@ zokou({ nomCom: "deploy", categorie: "General" }, async (dest, zk, commandeOptio
       await zk.sendMessage(dest, {
         image: { url: lien },
         caption: infoMsg,
-        footer: "🤖 Powered by *POPKID-XTECH* • Made with 💙"
+        footer: "🤖 Powered by *SHADOW-SMR* • Made with 💙"
       }, { quoted: ms });
 
     } else {
