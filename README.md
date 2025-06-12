@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=FF0000&center=true&width=1100&height=150&lines=POPKID-+XTECH+BOT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=FF0000&center=true&width=1100&height=150&lines=§HÄÐÖW-MÐ" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
+  <a href="https://chat.whatsapp.com/FtDLI1gm09nIpxGHhLkk74">
     <img alt="§HÄÐÖW-MÐ" height="350" src="https://files.catbox.moe/nzk037.jpg" />
   </a>
 </p>
