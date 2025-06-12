@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Path to the JSON file storing banned groups
-const filePath = path.join(__dirname, '../SHADOW-MD/banGroup.json');
+const filePath = path.join(__dirname, '../SHADOW-SMR-MD/banGroup.json');
 
 // Load data from JSON file
 function loadBanGroupData() {
