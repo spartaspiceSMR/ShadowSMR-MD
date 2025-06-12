@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Path to the JSON file storing hentai data
-const filePath = path.join(__dirname, '../popkid/hentai.json');
+const filePath = path.join(__dirname, '../SHADOW-SMR-MD/hentai.json');
 
 // Load data from JSON file
 function loadHentaiData() {
