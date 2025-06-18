@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=SHADOW+;KEEP+USING+T-R-O-U-B-L-E-XMD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=†💖R🍥Ö💦Ú🔱ß🍷L🥺È+;KEEP+USING+T-R-O-U-B-L-E-XMD" alt="Typing SVG" />
   </a>
 </p>
 
