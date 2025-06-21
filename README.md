@@ -36,7 +36,7 @@
 
 ### 🤍 Get Pair Code
 <p align="center">
-  <a href="https://troublexmd-session-id-generator.onrender.com/pair">
+  <a href="https://troublexmd-session-link-main.onrender.com/pair">
     <img src="https://img.shields.io/badge/LOG IN FOR SESSION ID-white?style=for-the-badge&logo=porsche&logoColor=black" width="240" height="38.45" />
   </a>
 </p>
